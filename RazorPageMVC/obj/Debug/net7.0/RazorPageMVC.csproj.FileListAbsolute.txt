@@ -1,0 +1,8 @@
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.RazorAssemblyInfo.cache
+C:\Users\ynami\OneDrive\Desktop\RazorPageMVC\RazorPageMVC\obj\Debug\net7.0\RazorPageMVC.RazorAssemblyInfo.cs
